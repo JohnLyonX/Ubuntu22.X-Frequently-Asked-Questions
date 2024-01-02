@@ -1,4 +1,4 @@
-# 
+# Ubuntu22.X-常见问题解答
 
 1. 问：如何为我的Ubuntu系统配置独立的IP？
     - 答：使用Vim编辑 `/etc/netplan/xx-installer-config.yaml` 文件，配置内容参考文件：`xx-installer-config.yaml`
