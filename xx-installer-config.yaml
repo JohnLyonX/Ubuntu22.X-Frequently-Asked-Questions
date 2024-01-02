@@ -1,0 +1,10 @@
+network:
+  version: 2
+  renderer: NetworkManager
+  ethernets:
+    enp0s5:
+      dhcp4: no
+      addresses: [xxx.xxx.xxx.xxx/24]
+      gateway4: xxx.xxx.xxx.xxx
+      nameservers;
+          addresses: [xxx.xxx.xxx.xxx,xxx.xxx.xxx.xxx] # if you need Configuration more nameserver, you can use "," separate
