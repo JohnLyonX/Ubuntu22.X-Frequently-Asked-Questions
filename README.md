@@ -1,0 +1,1 @@
+# Ubuntu22.X-NetWork-Independent-IP-Configuration
